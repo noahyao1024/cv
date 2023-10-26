@@ -1,0 +1,28 @@
+- project: 👓 REALSEE - Server Architecture Upgrade & Open Platform
+  role: Direction Leader (6-person team) & Core Engineer
+  duration: 2020 — Present
+  # url: "#"
+  description: Based on secondary development of the Gin framework, formed a unique Web framework for REALSEE, supporting the technology stack transition from PHP to Golang. This effectively improved interface performance and machine resource utilization, promoting large-scale application of Golang in operational engineering. Also, took the lead in designing the architecture and interaction standards of the REALSEE open platform, and built a business gateway exclusive to REALSEE on this basis. In addition to implementing traditional authentication, rate limiting, and frequency control functions, it specifically introduced an API Mesh system, optimizing the rapid assembly, combination, and ReFormat of HTTP APIs, and implemented a streamlined version of the service marketplace under the Beike technology architecture.
+
+- project: 👓 REALSEE - VR House Viewing & VR Guided Tours
+  role: Direction Leader (4-person team) & Core Engineer
+  duration: 2019 — Present
+  # url: "#"
+  description: Led the server-side architecture design and development work for Beike's VR house viewing business, responsible for designing and developing pure memory real-time communication services, supporting VR guided tours business with tens of thousands of people online (peak single-machine value). Through optimization, the link-building performance was improved from 1200ms at PCT80 to 200ms, and an elegant release plan was implemented for WebSocket long connections' special scenarios, extending this technical solution to other long-connection application scenarios.
+
+- project: 🚗 Dongchedi - Search Engine
+  role: Direction Leader (2-person team) & Core Engineer
+  duration: 2018 — 2019
+  description: Accomplished a complete overhaul based on a new architecture involving API+DA+BS+AS, including the splitting and restructuring of DA, BS (using ElasticSearch as the data recall source), and the migration and transformation of the C++ version of the AS module (mainly involving Ranking). This new architecture significantly improved iteration efficiency, ensuring product requirements could iterate on a daily basis, and strategy requirement cycles were shortened to 3 days. Further integrated GO-Jieba, NLP, and other segmentation/rewriting/error correction services, and realized a DA module based on open-source libraries, effectively supporting high-performance intent analysis and segmentation processing in the automotive vertical domain. The new system achieved high performance (PCT99 5ms) and high availability (stability reaching 99.99%+), and can support minute-level interventions for platforms and BOTs, flexibly meeting varied operational demands.
+
+- project: 🔍 Mobile Baidu - App Basic API & Core Configuration Service
+  role: Project Leader (4-person team) & Core Engineer
+  duration: 2017 — 2018
+  # url: "#"
+  description: Mobile Baidu App, as Baidu's core mobile product, integrates both recommendation and search functions. In this project, led the design, development, and optimization of the App's basic APIs (such as hot updates, cold updates, etc., with an average QPS of about 5000+, SLA 99.999%). Through the application of a multi-layer storage system (APC/Mysql/BdConf/Redis), successfully restructured the business filtering and issuance mechanism, and upgraded the configuration platform to provide technical support for the disaster recovery system. Additionally, the new configuration platform can handle peak traffic up to 800,000 CPS, process tens of millions of CUID set judgments, implement 13+ kinds of Meta filtering strategies, and optimize traffic through BloomFilter technology.
+
+- project: 💬 Baidu Tieba - Native Advertising System & User Incentive and Commercial Products
+  role: Core Engineer & Module Leader
+  duration: 2017 — 2018
+  # url: "#"
+  description: Responsible for the design, development, and maintenance of Baidu Tieba's native advertising system (CTR 0.28%), including the bidding system, advertiser system, and performance evaluation system, forming a complete closed-loop computational advertising system. Through the integration of a real-time streaming log system (nginx+lua+kafka+storm), facilitated the development of subsequent operational and delivery tools. At the same time, was responsible for restructuring and maintaining Baidu Tieba's commercialization activity system (such as voting, lottery, building floors), and participated in the commercial high-rise project in 2015 (with more than 14 million+ floors), significantly enhancing Tieba's influence in the entertainment and media fields.

@@ -1,0 +1,19 @@
+- company: Ke Holdings Inc (Beike Zhaofang)
+  position: Senior Engineer
+  duration: 07, 2019 &mdash; Present
+  summary: Led the architectural design and system development of key business systems, basic services (including account systems, business gateways, WebSocket gateways), and open platforms for REALSEE (a subsidiary of Ke Holdings specializing in 3D reconstruction/VR business).
+
+- company: ByteDance
+  position: Senior Engineer
+  duration: 04, 2018 &mdash; 07, 2019
+  summary: Led the architectural design, development, and maintenance of the search system for Dongchedi (a platform under ByteDance, focusing on the automotive field).
+
+- company: Baidu
+  position: Senior PHP Engineer
+  duration: 04, 2015 &mdash; 04, 2018
+  summary: Responsible for the commercial activity system and native advertising system of Baidu Tieba, as well as the system architecture design, development, and performance optimization of Baidu Doctor C-end APP, Baidu Medical Search, and Baidu APP server.
+
+- company: Baidu
+  position: 🧑‍🎓 Intern
+  duration: 09, 2014 &mdash; 04, 2015
+  summary: Participated in the system development and performance optimization of PC-based basic services, big data public opinion monitoring, and official bar value-added business for Baidu Tieba (Baidu's core social platform).

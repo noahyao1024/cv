@@ -1,0 +1,14 @@
+- skill: Operating System
+  description: Linux, MacOS, OpenWRT
+
+- skill: Toolset
+  description: Vim, Git, Subversion, CTEX, Matlab
+
+- skill: Programming Language
+  description: Golang, PHP, Python, C/C++, Shell
+
+- skill: Storage
+  description: MySQL(DDBS), Redis, Object Storage, Memcached, ElasticSearch, CockRoach(NDB)
+
+- skill: Queue
+  description: Kafka, NSQ, Storm
