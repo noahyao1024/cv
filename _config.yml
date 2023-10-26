@@ -21,7 +21,7 @@ resume_contact_telephone:       ""
 resume_contact_address:         "Haidian District, Beijing"
 
 resume_header_contact_info:     "Haidian District, Beijing • hi#noahyao.com"
-display_header_contact_info:    "false"
+display_header_contact_info:    "true"
 
 resume_header_intro: "<p>With over 8 years of experience in server-side design and development, I have been deeply involved in the technical research and development work in social platforms, search engines, user and commercial products, and the VR industry. As a programmer born in the '80s, not only am I passionate about coding, but I also enjoy 'tinkering' and facing various 'challenges'.</p>"
 
